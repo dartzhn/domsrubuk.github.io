@@ -1,0 +1,4 @@
+User-agent: *
+
+Host: http://www.domsrubuk.kz
+Sitemap: http://www.domsrubuk.kz/sitemap.xml
